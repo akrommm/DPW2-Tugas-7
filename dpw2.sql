@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 21, 2022 at 07:14 PM
+-- Generation Time: Aug 25, 2022 at 03:32 AM
 -- Server version: 10.4.24-MariaDB
 -- PHP Version: 8.1.6
 
@@ -57,9 +57,9 @@ CREATE TABLE `produk` (
 --
 
 INSERT INTO `produk` (`id`, `id_user`, `nama`, `harga`, `berat`, `deskripsi`, `stok`, `created_at`, `updated_at`) VALUES
-(22, 6, 'Logitech - G502 HERO Wired Optical Gaming Mouse Pack', 1000000, 500, 'G502 HERO HIGH PERFORMANCE GAMING MOUSE\r\n\r\nHERO YANG DILAHIRKAN KEMBALI\r\n\r\nG502 HERO dilengkapi sensor optik terbaik untuk akurasi penelusuran maksimum, pencahayaan RGB yang disesuaikan, profil game khusus, dari 200 hingga 25.600 DPI, dan pemberat yang dapat diposisikan ulang.\r\n\r\nSENSOR HERO 25K\r\n\r\nHERO 25K adalah gaming sensor yang paling akurat dengan presisi generasi berikutnya dan arsitektur dari dasar. Dengan pemrosesan frame rate tercepat, HERO mampu mencapai 400+ IPS pada seluruh kisaran 100 - 25,600 DPI dengan zero smoothing, memfilter, atau akselerasi. HERO 25K mencapai presisi level kompetisi dan ketanggapan yang paling konsisten. Pastikan untuk mengkustomisasi dan menyesuaikan pengaturan DPI Anda dengan menggunakan Logitech G HUB.\r\n\r\nKENDALI DI UJUNG JEMARI ANDA\r\n11 TOMBOL YANG DAPAT DIPROGRAM\r\n\r\nGunakan Logitech G HUB untuk memprogram perintah dan makro favorit Anda pada ke-11 tombol yang ada. Membangun, membungkuk, menyerang, menyembuhkan … letakkan semua gerakan andalan di ujung jemari Anda. Simpan profil siap-main langsung di mouse sehingga Anda bisa membawa pengaturan ini ke mana pun juga.\r\n\r\nPEMBERAT YANG DAPAT DISESUAIKAN\r\n\r\nSempurnakan nuansa mouse dan menggelincir untuk keunggulan Anda. Lima pemberat 3,6 g disertakan dengan G502 HERO dan dapat dikonfigurasi dalam aneka konfigurasi pemberat di bagian depan, belakang, kiri, kanan, dan tengah mouse. Bereksperimen dengan penyelarasan dan keseimbangan agar menemukan kombinasi paling cocok guna mengoptimalkan kinerja gaming Anda.', 21, '2022-08-21 08:57:48', '2022-08-21 08:57:48'),
-(23, 6, 'Rexus GX200 Gladius Gaming Wireless Gamepad', 300000, 500, '*TIDAK di sarankan utk redmi\r\n*TIPE TERBARU tidak dengan HOLDER\r\n\r\nRexus Wireless Gamepad Gladius GX200 NEW\r\n\r\nKonsol dapat dikoneksikan dengan perangkat PC/PS3/Android\r\nBerbasis koneksi kabel dan nirkabel 2.4GHz yang praktis, mudah, dan cepat untuk setiap suasana\r\nDidukung fitur Turbo yang mengoptimalkan aksi Anda saat bermain game\r\nDidukung driver software untuk mengoneksikan gamepad dengan perangkat terdukung\r\nTerbuat dari material berkualitas dengan Grip yang kokoh\r\n\r\nKebebasan Dual Koneksi\r\nDengan adanya dual koneksi yang disematkan pada Gamepad Gladius GX200, pengguna konsol baik kabel dan nirkabel dapat dengan leluasa memilih untuk kenyamanannya saat bermain. Kabel yang digunakan sepanjang 1 meter dan nirkabel menggunakan dongle USB receiver.\r\nFitur Turbo\r\nRexus Wireless Gamepad Gladius GX200 dilengkapi dengan tombol khusus Rapid Fire dengan mode Turbo, yaitu tombol semi otomatis yang membuat beberapa aksi hanya dengan menekan satu tombol dalam waktu lama.\r\nDesain & Ukuran Ideal\r\nDengan desain pegangan atau grip yang ergonomis dan anti-slip, kontrol permainan game mobile jadi lebih optimal. Dukungan ukuran ideal, yaitu 158mm x 103mm x 69mm dan berat 190 gram, membuat gamepad ini nyaman dan menjanjikan kebebasan gerakan yang maksimal.\r\n\r\nSpesifikasi\r\nMode Dual : X-Input dan Direct-Input\r\nKonektivitas : Kabel dan Nirkabel 2.4 GHz\r\nJangkauan Freq : +- 8 meter\r\nBaterai : Lithium Polymer 600mAh\r\nDurasi Pemakaian : 12 jam\r\nWaktu isi ulang : 2-3 jam\r\nTeknologi Stik Analog : Eccentric 360\r\nTombol : 12 tombol numerik, D-Cross 8-way dengan ketepatan optimal\r\nKompatibilitas : PlayStation 3, Android, Windows\r\nLampu : LED Indikator\r\nAlat Nirkabel : Dongle USB\r\nPanjang Kabel Daya: 1m+- 5cm\r\nDimensi : 158mm x 103mm x 69mm\r\nBerat : 190 gram +- 10 gram\r\n\r\nIsi Kemasan\r\n- 1 buah Wireless Gamepad GX200\r\n\r\nGaransi Resmi 1 tahun.', 17, '2022-08-21 09:12:47', '2022-08-21 09:12:47'),
-(24, 16, 'Xbox Series X Console – 1 TB', 8000000, 10000, '12 Teraflops\r\nVariable Rate Shading\r\nHardware Accelerated DirectX Raytracing\r\nQuick Resume for Multiple Games\r\nSmart Delivery\r\nNative 4K, 8K Support, Up to 120 fps\r\nCustom AMD Zen 2 (8 Core)\r\nCustom AMD Radeon RNDA Navi\r\nNVMe SSD Drive\r\nSeries X Controller (Includes Share Button and hybrid D-Pad), Xbox One Controller Compatible\r\nInclude Auto Low Latency Mode (ALLM) and Dynamic Latency Input (DLI) that will make Xbox Series X the most responsive console ever\r\nNative 4K, 8K Support, Up to 120 fps\r\nCustom AMD Zen 2 (8 Core)\r\nCustom AMD Radeon RNDA Navi\r\nNVMe SSD Drive\r\nSeries X Controller (Includes Share Button and hybrid D-Pad), Xbox One Controller Compatible\r\nInclude Auto Low Latency Mode (ALLM) and Dynamic Latency Input (DLI) that will make Xbox Series X the most responsive console ever', 18, '2022-08-21 09:53:49', '2022-08-21 09:53:49');
+(24, 16, 'Xbox Series X Console – 1 TB', 8000000, 10000, '12 Teraflops\r\nVariable Rate Shading\r\nHardware Accelerated DirectX Raytracing\r\nQuick Resume for Multiple Games\r\nSmart Delivery\r\nNative 4K, 8K Support, Up to 120 fps\r\nCustom AMD Zen 2 (8 Core)\r\nCustom AMD Radeon RNDA Navi\r\nNVMe SSD Drive\r\nSeries X Controller (Includes Share Button and hybrid D-Pad), Xbox One Controller Compatible\r\nInclude Auto Low Latency Mode (ALLM) and Dynamic Latency Input (DLI) that will make Xbox Series X the most responsive console ever\r\nNative 4K, 8K Support, Up to 120 fps\r\nCustom AMD Zen 2 (8 Core)\r\nCustom AMD Radeon RNDA Navi\r\nNVMe SSD Drive\r\nSeries X Controller (Includes Share Button and hybrid D-Pad), Xbox One Controller Compatible\r\nInclude Auto Low Latency Mode (ALLM) and Dynamic Latency Input (DLI) that will make Xbox Series X the most responsive console ever', 18, '2022-08-21 09:53:49', '2022-08-21 09:53:49'),
+(27, 16, 'MI Monitor Gaming Curved 34 inch 144hz - GARANSI 1 TAHUN', 5000000, 5000, 'READY VERSI CHINA GARANSI 1 TAHUN\r\nSELAMA IKLAN MASIH TAYANG, SILAHKAN DIORDER LANGSUNG YA KAK, BARANG READY\r\n\r\n\r\n\r\nPERBEDAAN VERSI CHINA DAN GLOBAL\r\n\r\nGlobal : Dus putih ,colokan indonesia dan bahasa default english juga manual English\r\n\r\nChina : Dus coklat, manual bahasa di monitor China TAPI bisa diubah ke English. Colokan masih gepeng dan manual book bahasa China\r\n\r\n\r\nSpesifikasi Produk:\r\n- Resolution: 3440*1440\r\n- Display ratio: 21:9\r\n- Screen curvature: 1500R\r\n- Refresh rate: 144Hz\r\n- Response time: 4ms\r\n- Color gamut: 85% NTSC\r\n- Color: 16.7 million\r\n- Contrast: 3000:1\r\n- Brightness: 300cd/m2\r\n\r\nPort I/O 2 x HD\r\n2 x DP 1.4\r\n1 x Audio Port\r\n1 x AC Power Cable In Port', 200, '2022-08-24 18:05:47', '2022-08-24 18:05:47'),
+(28, 30, 'Headset Gaming Rexus Vonix F30 LED RGB Spectrum - Merah Muda', 160000, 500, 'FREE Converter dari 2 jack audio 3.5mm menjadi 1 jack audio 3.5mm utk disambungkan ke HP\r\n\r\nRexus gaming headset Vonix F30 adalah headset yang diperuntukkan bagi para pemain game PC. Headset ini tampil dengan desain yang sederhana, kompak, dan memprioritaskan kegunaan. Keunggulan lainnya adalah headset ini mempertahankan durabilitas layaknya berbagai tipe headset Rexus lain yang sudah banyak digunakan di beragam game center. Tampil tangguh, Vonix F30 tak mengesampingkan fungsi utamanya sebagai pemroduksi suara, dengan suara yang detil dan range lebar, seperti karakterisitik headset gaming pada umumnya.', 100, '2022-08-24 18:06:47', '2022-08-24 18:06:47');
 
 -- --------------------------------------------------------
 
@@ -83,8 +83,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `email`, `nama`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(6, 'arfmhmmdakrm_', 'katente168@gmail.com', 'Arief Muhammad Akrom', '$2y$10$jHZS6QwW90xWa1t.Jt6JaOqYRK15YDa8WZQLXlw.zjTs5pn9oRy1i', NULL, '2022-08-17 07:01:31', '2022-08-20 00:40:03'),
-(16, 'akrommm', 'akrommm@gmail.com', 'Arief Muhammad', '$2y$10$eeWyXcY30f8I648m4.nTJ.1STjZsd33ctAWfpr5tgQ6W5eYCbyvbq', NULL, '2022-08-21 08:43:14', '2022-08-21 08:43:14');
+(16, 'akrommm', 'akrommm@gmail.com', 'Arief Muhammad', '$2y$10$eeWyXcY30f8I648m4.nTJ.1STjZsd33ctAWfpr5tgQ6W5eYCbyvbq', NULL, '2022-08-21 08:43:14', '2022-08-21 08:43:14'),
+(30, 'arfmhmmdakrm', 'katente168@gmail.com', 'Arief Muhammad Akrom', '$2y$10$pTU1AAXcCXiv.394.lC04u89k0sulXAIIsyXLJcwVGbt/8YUnyowC', NULL, '2022-08-24 18:02:27', '2022-08-24 18:02:27');
 
 -- --------------------------------------------------------
 
@@ -105,7 +105,8 @@ CREATE TABLE `user_detail` (
 --
 
 INSERT INTO `user_detail` (`id`, `id_user`, `no_handphone`, `created_at`, `updated_at`) VALUES
-(2, 16, '+6289531231716', '2022-08-21 08:43:14', '2022-08-21 08:43:14');
+(2, 16, '+6289531231716', '2022-08-21 08:43:14', '2022-08-21 08:43:14'),
+(3, 30, '+6289531238989', '2022-08-24 18:02:27', '2022-08-24 18:02:27');
 
 --
 -- Indexes for dumped tables
@@ -149,19 +150,19 @@ ALTER TABLE `kategori`
 -- AUTO_INCREMENT for table `produk`
 --
 ALTER TABLE `produk`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=25;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=29;
 
 --
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=31;
 
 --
 -- AUTO_INCREMENT for table `user_detail`
 --
 ALTER TABLE `user_detail`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
